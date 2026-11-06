@@ -1,1 +1,6 @@
 .ssh_known_hosts
+
+telegram.conf
+**/telegram.conf
+telegram_secrets.conf
+**/telegram_secrets.conf
